@@ -12,7 +12,7 @@ Max value = +8 <br/>
 
 The 193 columns in the *dc* file is organized as follows: <br/>
 1 - timestamp <br/>
-2-193 depth camera data frame (12x16) <br/>
+2 - 193 depth camera data frame (12x16) <br/>
 dc data frame is scaled down from 240x320 to 12x16 using the OpenCV resize
 algorithm <br/>
 Min value - 0 <br/>
