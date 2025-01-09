@@ -29,6 +29,8 @@ datasets/
 *.tif
 *.tiff
 
+.ipynb_checkpoints
+
 # Model checkpoints
 checkpoints/
 *.ckpt
